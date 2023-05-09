@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pirko
+ *
+ */
+module LinearSearch {
+}

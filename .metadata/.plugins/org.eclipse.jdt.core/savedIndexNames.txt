@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\pirko\eclipse-search\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2805695555.index
+130919008.index
